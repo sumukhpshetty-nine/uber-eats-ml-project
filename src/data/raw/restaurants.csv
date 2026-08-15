@@ -1,0 +1,101 @@
+restaurant_id,restaurant_name,category,city,rating,avg_preparation_time
+REST_001,Restaurant_001,Pizza,Hyderabad,4.8,12
+REST_002,Restaurant_002,North Indian,Pune,4.2,37
+REST_003,Restaurant_003,South Indian,Chennai,4.4,12
+REST_004,Restaurant_004,Healthy,Hyderabad,3.7,14
+REST_005,Restaurant_005,Chinese,Chennai,4.4,36
+REST_006,Restaurant_006,Cafe,Pune,3.9,21
+REST_007,Restaurant_007,Healthy,Pune,3.9,21
+REST_008,Restaurant_008,Desserts,Mumbai,4.5,29
+REST_009,Restaurant_009,Biryani,Chennai,4.6,22
+REST_010,Restaurant_010,Healthy,Hyderabad,4.9,29
+REST_011,Restaurant_011,Pizza,Hyderabad,4.9,18
+REST_012,Restaurant_012,South Indian,Chennai,4.6,16
+REST_013,Restaurant_013,Cafe,Chennai,3.2,13
+REST_014,Restaurant_014,Fast Food,Chennai,5.0,28
+REST_015,Restaurant_015,Healthy,Delhi,4.6,31
+REST_016,Restaurant_016,Indian,Hyderabad,3.7,28
+REST_017,Restaurant_017,Pizza,Pune,4.5,15
+REST_018,Restaurant_018,Pizza,Hyderabad,3.6,36
+REST_019,Restaurant_019,Indian,Delhi,4.4,22
+REST_020,Restaurant_020,Desserts,Chennai,3.4,20
+REST_021,Restaurant_021,Fast Food,Mumbai,3.7,22
+REST_022,Restaurant_022,Biryani,Chennai,4.5,22
+REST_023,Restaurant_023,South Indian,Chennai,4.6,37
+REST_024,Restaurant_024,Cafe,Delhi,4.3,34
+REST_025,Restaurant_025,South Indian,Hyderabad,4.0,31
+REST_026,Restaurant_026,Fast Food,Chennai,3.0,37
+REST_027,Restaurant_027,South Indian,Hyderabad,4.0,29
+REST_028,Restaurant_028,Indian,Bengaluru,4.4,24
+REST_029,Restaurant_029,Pizza,Pune,3.9,30
+REST_030,Restaurant_030,South Indian,Hyderabad,4.1,22
+REST_031,Restaurant_031,North Indian,Mumbai,4.0,31
+REST_032,Restaurant_032,Healthy,Pune,3.9,20
+REST_033,Restaurant_033,Fast Food,Mumbai,4.1,28
+REST_034,Restaurant_034,Desserts,Chennai,4.0,17
+REST_035,Restaurant_035,North Indian,Pune,4.8,29
+REST_036,Restaurant_036,Indian,Hyderabad,3.0,17
+REST_037,Restaurant_037,Chinese,Pune,3.8,19
+REST_038,Restaurant_038,Indian,Chennai,3.7,35
+REST_039,Restaurant_039,Desserts,Delhi,4.2,25
+REST_040,Restaurant_040,Desserts,Mumbai,4.1,28
+REST_041,Restaurant_041,North Indian,Chennai,4.9,35
+REST_042,Restaurant_042,Healthy,Delhi,5.0,32
+REST_043,Restaurant_043,Fast Food,Pune,3.7,20
+REST_044,Restaurant_044,Biryani,Pune,4.1,22
+REST_045,Restaurant_045,Pizza,Chennai,4.2,37
+REST_046,Restaurant_046,North Indian,Hyderabad,3.7,18
+REST_047,Restaurant_047,Desserts,Pune,4.4,29
+REST_048,Restaurant_048,Chinese,Hyderabad,4.0,33
+REST_049,Restaurant_049,Cafe,Hyderabad,3.6,28
+REST_050,Restaurant_050,Desserts,Hyderabad,4.0,25
+REST_051,Restaurant_051,Healthy,Bengaluru,3.6,16
+REST_052,Restaurant_052,Healthy,Delhi,4.6,28
+REST_053,Restaurant_053,Desserts,Delhi,5.0,21
+REST_054,Restaurant_054,Healthy,Pune,4.2,24
+REST_055,Restaurant_055,North Indian,Pune,4.2,40
+REST_056,Restaurant_056,Desserts,Hyderabad,4.2,32
+REST_057,Restaurant_057,Desserts,Bengaluru,4.7,23
+REST_058,Restaurant_058,Fast Food,Hyderabad,4.7,20
+REST_059,Restaurant_059,Pizza,Bengaluru,4.0,35
+REST_060,Restaurant_060,Chinese,Hyderabad,4.2,19
+REST_061,Restaurant_061,Healthy,Mumbai,4.4,36
+REST_062,Restaurant_062,Fast Food,Mumbai,3.5,20
+REST_063,Restaurant_063,Biryani,Chennai,4.7,15
+REST_064,Restaurant_064,Biryani,Hyderabad,5.0,11
+REST_065,Restaurant_065,South Indian,Pune,4.7,20
+REST_066,Restaurant_066,North Indian,Delhi,3.5,28
+REST_067,Restaurant_067,North Indian,Chennai,3.1,15
+REST_068,Restaurant_068,Indian,Pune,4.5,23
+REST_069,Restaurant_069,Chinese,Mumbai,3.7,29
+REST_070,Restaurant_070,Desserts,Hyderabad,4.2,15
+REST_071,Restaurant_071,Healthy,Chennai,4.9,26
+REST_072,Restaurant_072,Chinese,Hyderabad,3.8,19
+REST_073,Restaurant_073,South Indian,Mumbai,3.9,37
+REST_074,Restaurant_074,Indian,Chennai,4.2,10
+REST_075,Restaurant_075,Fast Food,Mumbai,3.5,12
+REST_076,Restaurant_076,Chinese,Bengaluru,3.7,17
+REST_077,Restaurant_077,Fast Food,Mumbai,4.1,17
+REST_078,Restaurant_078,Biryani,Hyderabad,3.9,36
+REST_079,Restaurant_079,Healthy,Delhi,4.4,29
+REST_080,Restaurant_080,South Indian,Mumbai,5.0,31
+REST_081,Restaurant_081,Desserts,Pune,4.1,24
+REST_082,Restaurant_082,Healthy,Delhi,3.7,33
+REST_083,Restaurant_083,Pizza,Bengaluru,4.8,16
+REST_084,Restaurant_084,North Indian,Chennai,3.3,20
+REST_085,Restaurant_085,South Indian,Chennai,3.4,16
+REST_086,Restaurant_086,Chinese,Delhi,3.8,38
+REST_087,Restaurant_087,Healthy,Chennai,4.0,13
+REST_088,Restaurant_088,Cafe,Mumbai,3.8,34
+REST_089,Restaurant_089,North Indian,Delhi,4.1,21
+REST_090,Restaurant_090,North Indian,Hyderabad,4.2,35
+REST_091,Restaurant_091,Cafe,Mumbai,4.6,15
+REST_092,Restaurant_092,Indian,Mumbai,4.1,23
+REST_093,Restaurant_093,Indian,Mumbai,3.8,21
+REST_094,Restaurant_094,Cafe,Hyderabad,4.6,20
+REST_095,Restaurant_095,Pizza,Bengaluru,3.7,28
+REST_096,Restaurant_096,Biryani,Pune,3.3,30
+REST_097,Restaurant_097,Cafe,Chennai,4.7,14
+REST_098,Restaurant_098,Biryani,Delhi,4.7,23
+REST_099,Restaurant_099,Healthy,Bengaluru,3.7,30
+REST_100,Restaurant_100,Pizza,Delhi,3.9,33
