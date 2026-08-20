@@ -1,0 +1,5 @@
+Component,Future Improvement
+Customer Segmentation,Test additional segmentation features and validate clusters with business KPIs.
+Sentiment Analysis,Use BERT/Transformer-based models to capture contextual meaning.
+Delivery Time Prediction,"Add richer traffic, route, distance, location, and driver-level features."
+Demand Forecasting,"Use a larger real-world dataset with stronger seasonality, holidays, events, and location-level demand patterns."

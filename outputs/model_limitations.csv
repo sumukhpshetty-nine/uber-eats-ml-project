@@ -1,0 +1,5 @@
+Component,Limitation
+Customer Segmentation,Clusters depend on the selected features and clustering assumptions.
+Sentiment Analysis,"Traditional TF-IDF models may miss deeper context, sarcasm, and complex language."
+Delivery Time Prediction,Predictions depend on the quality and availability of delivery-related features.
+Demand Forecasting,"The synthetic dataset contains relatively low and stable hourly demand, limiting the ability to identify strong demand spikes."
